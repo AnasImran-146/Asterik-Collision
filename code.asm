@@ -1,3 +1,4 @@
+;This is my assembly project !!!
 [org 0x100]
 
 jmp main
